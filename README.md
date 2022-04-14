@@ -29,3 +29,13 @@ convert image.jpg -quality 50% image_converted.jpg
 
 - [X] Rendu : Un pdf contenant toutes les lignes de commandes que vous avez tapées et l’image finale.
 > Aide : Vous devrez télécharger un paquet magick vous permettant de convertir l’image
+
+### Résultats
+
+- L'image renommée : 
+
+![image.jpg](image.jpg)
+
+- L'image avec réduction de qualité de 50% : 
+
+![image_converted.jpg](image_converted.jpg)
